@@ -1,0 +1,5 @@
+go get golang.org/x/crypto/bycrypt
+ go get -u github.com/dgrijalva/jwt-go
+ go get -u gorm.io/gorm
+ go get -u gorm.io/driver/mysql 
+  go get github.com/gofiber/fiber/v2
